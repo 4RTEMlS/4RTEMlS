@@ -12,9 +12,6 @@ $\Huge\color{#77181f}{\textsf{name}}$
 </td>
 
 
-
-
-
 <br><br><br>
 txt<br>
 txt txt txt<br>
@@ -24,25 +21,25 @@ txt<br>
 <br><br><br>
 
 
-
-
-<br><br><br>
-
-
 <details>
-  <summary> click me ! !</summary>
-  txt
-  txt 
-  txt
-  txt
+  <summary> ‎ ‎ ‎ dni's‎ ‎ /‎ ‎ iwc  </summary>
+    ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎dni<br>
+    25+<br>‎
+    txt<br>‎
+    ‎txt<br>‎
+      ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎iwc<br>
+    ‎txt
+    ‎txt<br>‎
 </details>
 
-
-
 <details>
-  <summary> click me ! !</summary>
-  txt
-  txt 
-  txt
-  txt
+  <summary> ‎ ‎ ‎ byf‎ ‎ /‎ ‎ i  </summary>  ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎
+‎    ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎‎ <br>
+    ‎txt
+    ‎txt<br>‎
+      ‎ ‎ ‎ ‎ ‎ ‎   ‎  ‎ ‎ ‎ ‎ ‎ ‎
 </details>
+
