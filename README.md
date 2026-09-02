@@ -3,7 +3,12 @@
 the transparency HATES me 
 txt txt txt ^_^ 
 
-<img width="451" height="553" alt="Untitled180_20260902101023" src="https://github.com/user-attachments/assets/0903c0c0-e98b-4072-9609-a6ebbee021f1" />
 
 
 
+
+
+<details>
+  <summary>txt txt txt</summary>
+  txt txt txt txt txt
+</details>
