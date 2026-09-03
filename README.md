@@ -18,6 +18,9 @@ to interact first sometimes - but i like talking 2 people<br>
 ‎ ‎  i forget to tab in or check ponytown a TON ,<br>
 if i dissapear on you , it is not intentional ! ┆
 
+c+h is ENCOURAGED ! ! plspls dont cover my pony<br>
+however i am very cuddly n love 2 sit w people ^_^<br>
+
 <details>
   <summary> ‎ ‎ ‎ dni's‎   </summary>
 
