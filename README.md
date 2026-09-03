@@ -1,5 +1,8 @@
-<img align="left" src="https://github.com/user-attachments/assets/80747d03-80a7-408c-95a0-cab0e0e38035" alt="Description" width="500">
 
+<img width="1500" height="500" alt="tumblr_d12d7d5f74e2395a2613a0e711bad171_342fa666_640" src="https://github.com/user-attachments/assets/f64738de-43d7-46a5-96b3-2645a7cb7b4a" />
+
+<br><br><br>
+<img align="left" src="https://github.com/user-attachments/assets/80747d03-80a7-408c-95a0-cab0e0e38035" alt="Description" width="500">
 <br><br><br>
 
 
