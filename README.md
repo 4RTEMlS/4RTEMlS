@@ -24,7 +24,6 @@ if i dissapear on you , it is not intentional ! ┆
 basic critera‎ ‎ ‎ , ,‎ ‎ ‎ -15/25+<br>
 endo ' systems ' + neutrals on this topic<br>
 anti - recovery proshippers<br>
-( iwcs + extras are on my straw )
 
 </details>
 
